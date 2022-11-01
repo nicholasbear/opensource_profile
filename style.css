@@ -1,0 +1,41 @@
+body {
+    font-family: "Segoe UI";
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    border-radius: 30px;
+    width: 200px;
+
+}
+
+h2 {
+border-left: 3px solid orange;
+padding-left: 5px;
+}
+
+a {
+color: steelblue;
+}
+
+a:visited {
+color: darkblue;
+}
+
+th {
+    padding: 20px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+.one{
+    margin-left: 200px;
+}
